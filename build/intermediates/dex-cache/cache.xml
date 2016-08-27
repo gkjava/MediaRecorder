@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_e6b2592e05f67d438c1ebd9a6b1050e02c6baeb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="abaf5e4ae96dc5d4e0c95b9931ff1fba8348355e">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4f7a1ed697d091897ec377b6a44e15a77997412b.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_1529c569b6957d46c5b9f64e5c67d4115abdbdba.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_e01c80b28c03e0229d5046e0f1d98909e7171ee4.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_3a2b73fb36d155def2fb58c4060481fa915a8241.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="738918c576b6a3ed1bbaeb55cc3a5ad7195d5809">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\instant-run_4b30279ad98adcf01368489f26f201b12b120283.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.3.0_e770803b9cd8824606c7118fda10e0a2d2978f23.jar" />
+    </item>
+    <item
+        jar="C:\Users\reliance\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\reliance\AndroidStudioProjects\MediaRecorder\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_04f40cb5d469c33a4b152ed46eaa35a2d9370150.jar" />
+    </item>
+
+</items>
